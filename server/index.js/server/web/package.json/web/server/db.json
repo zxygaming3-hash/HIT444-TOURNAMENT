@@ -1,0 +1,18 @@
+{
+      "tournaments": [
+          {
+                "id": "demo1",
+                      "name": "HIT444 Cup",
+                            "date": "2025-11-10",
+                                  "fee": 50,
+                                        "description": "Demo Free Fire tournament",
+                                              "teams": []
+                                                  }
+                                                    ],
+                                                      "registrations": [],
+                                                        "admin": {
+                                                            "password": "admin123"
+                                                              }
+                                                              }
+                                                              
+}

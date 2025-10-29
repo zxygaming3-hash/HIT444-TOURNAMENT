@@ -1,0 +1,10 @@
+npm start
+node index.js
+Server running on port 4000
+Listening on http://localhost:4000
+web
+cd web
+npm install
+npm start
+Compiled successfully!
+Local: http://localhost:3000
